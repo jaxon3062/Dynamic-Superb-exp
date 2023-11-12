@@ -1,0 +1,9 @@
+[submodule "dynamic-superb"]
+	path = dynamic-superb
+	url = https://github.com/dynamic-superb/dynamic-superb.git
+[submodule "espnet-whisper"]
+	path = espnet-whisper
+	url = https://github.com/dynamic-superb/espnet-whisper.git
+[submodule "NExT-GPT"]
+	path = NExT-GPT
+	url = https://github.com/NExT-GPT/NExT-GPT
